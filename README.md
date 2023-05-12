@@ -13,14 +13,14 @@
 - 🚀 [Miscellaneous](#misc)
 
 
-## <a name="chatbots"></a> Chatbots
+## <a name="chatbots"></a> Chatbots / General purpose
 
 | Organization | Waitlist Link | Description |
 | --- | --- | --- |
 | OpenAI | [ChatGPT Plugins](https://openai.com/waitlist/plugins) | ChatGPT Plugins |
 | OpenAI | [GPT-4 API](https://openai.com/waitlist/gpt-4-api) | API access to GPT-4 |
+| Google | [Palm2 API](https://developers.generativeai.google/) | chat, text, embeddings |
 | Google | [Bard - No longer waitlisted](https://bard.google.com/) | available in English in 180 countries |
-
 
 
 ## <a name="unwaitlists"></a> Things that are exclusive but don't have normal waitlists
@@ -56,7 +56,7 @@
 
 | Organization | Waitlist Link | Description |
 | --- | --- | --- |
-| Google | [MusicLM | AI Test Kitchen](https://www.khanacademy.org/khan-labs?step=login-signup) |  US only |
+| Google | [MusicLM, AI Test Kitchen](https://www.khanacademy.org/khan-labs?step=login-signup) |  US only |
 
 
 
