@@ -5,6 +5,7 @@
 # Categories
 - 💬 [Chatbots - general](#chatbots)
 - 🤞 [Unwaitlists](#unwaitlists)
+- 🎥 [Text to video](#video)
 - 🛠️ [Business](#business)
 - 📚 [Education](#education)
 - 🎸 [Music & Entertainment](#music)
@@ -26,10 +27,19 @@
 | OpenAI | [GPT-4-32k ](https://community.openai.com/t/it-looks-like-gpt-4-32k-is-rolling-out/194615) | Access to 32k context length |
 
 
+## <a name="video"></a> 🎥 Text to video
 
-## <a name="music"></a> 🎸 [Music & Entertainment
+
 | Organization | Waitlist Link | Description |
-| Google | [MusicLM | AI Test Kitchen](https://www.khanacademy.org/khan-labs?step=login-signup) |  |
+| --- | --- | --- |
+| RunwayML | [Gen-2](https://research.runwayml.com/gen2) | Gen-2 - Can ask for access via discord |
+
+
+## <a name="music"></a> 🎸 Music & Entertainment
+
+| Organization | Waitlist Link | Description |
+| --- | --- | --- |
+| Google | [MusicLM | AI Test Kitchen](https://www.khanacademy.org/khan-labs?step=login-signup) |  US only |
 
 
 
@@ -42,8 +52,10 @@
 
 
 
-# Want to add something? Make a pull request, or reach out by [twitter here - @andrew_nyu](https://twitter.com/andrew_nyu)
+# Want to add something? 
+
+Make a pull request, or reach out by [twitter here - @andrew_nyu](https://twitter.com/andrew_nyu)
 
 ## Requirements
 
-The focus is on general-interest and 
+The focus is on general-interest apps and features that are of interest to the general public or developers broadly.
